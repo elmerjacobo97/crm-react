@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Elmer",
+      "empresa": "CodigoConJuan",
+      "email": "ejacobotiniano@gmail.com",
+      "telephone": "927347691",
+      "notas": "Notas aquí...",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen Diseño",
+      "email": "karen@karen.com",
+      "telephone": "927347691",
+      "notas": "Notas!",
+      "id": 2
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Paulina Construcciones",
+      "email": "paulina@paulina.com",
+      "telephone": "927347691",
+      "notas": "Notas  aquí",
+      "id": 3
+    }
+  ]
+}
